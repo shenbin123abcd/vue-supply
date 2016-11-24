@@ -1,6 +1,0 @@
-;window.app=(function(){
-
-
-
-    return {};
-}());
