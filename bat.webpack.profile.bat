@@ -1,0 +1,1 @@
+start webpack --profile --json > stats.json
